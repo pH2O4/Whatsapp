@@ -1,0 +1,988 @@
+    name: 'Mãe',
+    shortName: 'Mãe',
+    pushname: 'Maria Do Socorro',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    statusMute: true,
+    isContactSyncCompleted: 1,
+    formattedName: 'Mãe',
+    displayName: 'Mãe',
+    formattedShortName: 'Mãe',
+    formattedShortNameWithNonBreakingSpaces: 'Mãe',
+    isMe: false,
+    mentionName: 'Mãe',
+    notifyName: 'Maria Do Socorro',
+    isMyContact: true,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/324789413_161890546611651_3371425905224138983_n.jpg?ccb=11-4&oh=01_AdTZGMYFWXSAT351OfvVISoAVv6ZeSX3FD_vsIgRvavk7g&oe=642DE070',
+      id: [Object],
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/324789413_161890546611651_3371425905224138983_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdQSs8oNiRUWRBgw_XC2sNm0ABboS5Y56qGJLnOozLjcKQ&oe=642DE070',      
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/324789413_161890546611651_3371425905224138983_n.jpg?ccb=11-4&oh=01_AdTZGMYFWXSAT351OfvVISoAVv6ZeSX3FD_vsIgRvavk7g&oe=642DE070',
+      tag: '1676848085'
+    },
+    msgs: null
+  },
+  groupMetadata: null,
+  presence: {
+    id: {
+      server: 'c.us',
+      user: '557799892857',
+      _serialized: '557799892857@c.us'
+    },
+    chatstates: []
+  },
+  isOnline: null,
+  lastSeen: 1679862817000
+}
+{
+  id: {
+    server: 'g.us',
+    user: '120363023222171209',
+    _serialized: '120363023222171209@g.us'
+  },
+  lastReceivedKey: {
+    fromMe: true,
+    remote: {
+      server: 'g.us',
+      user: '120363023222171209',
+      _serialized: '120363023222171209@g.us'
+    },
+    id: '8VOYFKQ0F5WYNM1W0H7E',
+    _serialized: 'true_120363023222171209@g.us_8VOYFKQ0F5WYNM1W0H7E'
+  },
+  t: 1679864234,
+  unreadCount: 0,
+  isReadOnly: false,
+  isAnnounceGrpRestrict: false,
+  muteExpiration: 0,
+  isAutoMuted: false,
+  name: 'Quinta Série B',
+  notSpam: true,
+  ephemeralDuration: 0,
+  unreadMentionsOfMe: [],
+  unreadMentionCount: 0,
+  hasUnreadMention: false,
+  archiveAtMentionViewedInDrawer: false,
+  hasChatBeenOpened: false,
+  tcToken: null,
+  tcTokenTimestamp: null,
+  endOfHistoryTransferType: 0,
+  pendingInitialLoading: false,
+  chatlistPreview: {
+    type: 'reaction',
+    msgKey: 'true_120363023222171209@g.us_3EB0B64A17198F15D7B0_557798011881@c.us',
+    parentMsgKey: 'false_120363023222171209@g.us_3A1BD21E0E8D88278075_557781016974@c.us',
+    reactionText: '😂',
+    sender: '557798011881@c.us',
+    timestamp: 1679364753000
+  },
+  msgs: null,
+  kind: 'group',
+  isGroup: true,
+  contact: {
+    id: {
+      server: 'g.us',
+      user: '120363023222171209',
+      _serialized: '120363023222171209@g.us'
+    },
+    name: 'Quinta Série B',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    formattedName: 'Quinta Série B',
+    displayName: 'Quinta Série B',
+    formattedShortName: 'Quinta Série B',
+    formattedShortNameWithNonBreakingSpaces: 'Quinta Série B',
+    isMe: false,
+    mentionName: 'Quinta Série B',
+    isMyContact: false,
+    isPSA: false,
+    isUser: false,
+    isWAContact: false,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/297920795_959476798786872_2064719189993829514_n.jpg?ccb=11-4&oh=01_AdSJ1x3AbdaJr6moT1bi7T2pRPEyoDlAuKMw68d0koHrqQ&oe=642DCADD',
+      id: [Object],
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/297920795_959476798786872_2064719189993829514_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdRJ5EJkg68QBJ-A6EzbEYBpD1KTYerp1hwzIcgolNtHng&oe=642DCADD',      
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/297920795_959476798786872_2064719189993829514_n.jpg?ccb=11-4&oh=01_AdSJ1x3AbdaJr6moT1bi7T2pRPEyoDlAuKMw68d0koHrqQ&oe=642DCADD',
+      tag: '1660302336'
+    },
+    msgs: null
+  },
+  groupMetadata: {
+    id: {
+      server: 'g.us',
+      user: '120363023222171209',
+      _serialized: '120363023222171209@g.us'
+    },
+    creation: 1646218223,
+    owner: {
+      server: 'c.us',
+      user: '557799711914',
+      _serialized: '557799711914@c.us'
+    },
+    subject: 'Quinta Série B',
+    subjectTime: 1662031908,
+    descTime: 0,
+    restrict: false,
+    announce: false,
+    noFrequentlyForwarded: false,
+    ephemeralDuration: 0,
+    membershipApprovalMode: false,
+    size: 16,
+    support: false,
+    suspended: false,
+    terminated: false,
+    uniqueShortNameMap: {},
+    isParentGroup: false,
+    isParentGroupClosed: false,
+    defaultSubgroup: false,
+    lastActivityTimestamp: 0,
+    lastSeenActivityTimestamp: 0,
+    incognito: false,
+    participants: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    pendingParticipants: [],
+    pastParticipants: [],
+    membershipApprovalRequests: []
+  },
+  presence: {
+    id: {
+      server: 'g.us',
+      user: '120363023222171209',
+      _serialized: '120363023222171209@g.us'
+    },
+    chatstates: []
+  },
+  isOnline: null,
+  lastSeen: 1679864236000
+}
+{
+  id: {
+    server: 'g.us',
+    user: '120363048096413808',
+    _serialized: '120363048096413808@g.us'
+  },
+  lastReceivedKey: {
+    fromMe: false,
+    remote: {
+      server: 'g.us',
+      user: '120363048096413808',
+      _serialized: '120363048096413808@g.us'
+    },
+    id: '0D8D18A863EB8D17982D6838D7A27B95',
+    participant: {
+      server: 'c.us',
+      user: '556286239464',
+      _serialized: '556286239464@c.us'
+    },
+    _serialized: 'false_120363048096413808@g.us_0D8D18A863EB8D17982D6838D7A27B95_556286239464@c.us'   
+  },
+  t: 1679864271,
+  unreadCount: 0,
+  isReadOnly: false,
+  isAnnounceGrpRestrict: false,
+  muteExpiration: 0,
+  isAutoMuted: false,
+  name: 'Chá de fralda da Liz 💓',
+  notSpam: true,
+  ephemeralDuration: 0,
+  unreadMentionsOfMe: [],
+  unreadMentionCount: 0,
+  hasUnreadMention: false,
+  archiveAtMentionViewedInDrawer: false,
+  hasChatBeenOpened: false,
+  tcToken: null,
+  tcTokenTimestamp: null,
+  endOfHistoryTransferType: 1,
+  pendingInitialLoading: false,
+  msgs: null,
+  kind: 'group',
+  isGroup: true,
+  contact: {
+    id: {
+      server: 'g.us',
+      user: '120363048096413808',
+      _serialized: '120363048096413808@g.us'
+    },
+    name: 'Chá de fralda da Liz 💓',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    formattedName: 'Chá de fralda da Liz 💓',
+    displayName: 'Chá de fralda da Liz 💓',
+    formattedShortName: 'Chá de fralda da Liz 💓',
+    formattedShortNameWithNonBreakingSpaces: 'Chá de fralda da Liz 💓',
+    isMe: false,
+    mentionName: 'Chá de fralda da Liz 💓',
+    isMyContact: false,
+    isPSA: false,
+    isUser: false,
+    isWAContact: false,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/322450307_212169641376100_2912920136808408965_n.jpg?ccb=11-4&oh=01_AdRuUCsO7AEjqchZ-NARirnbTzrXEb1vcLXsMWO2i3Di5Q&oe=642DC23E',
+      id: [Object],
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/322450307_212169641376100_2912920136808408965_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTJSdx5vAEK2U2FCcD35LaV5c0DkVmaKvf0ePiII3fsYw&oe=642DC23E',      
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/322450307_212169641376100_2912920136808408965_n.jpg?ccb=11-4&oh=01_AdRuUCsO7AEjqchZ-NARirnbTzrXEb1vcLXsMWO2i3Di5Q&oe=642DC23E',
+      tag: '1676739552'
+    },
+    msgs: null
+  },
+  groupMetadata: {
+    id: {
+      server: 'g.us',
+      user: '120363048096413808',
+      _serialized: '120363048096413808@g.us'
+    },
+    creation: 1676563990,
+    owner: {
+      server: 'c.us',
+      user: '556299902834',
+      _serialized: '556299902834@c.us'
+    },
+    subject: 'Chá de fralda da Liz 💓',
+    subjectTime: 1676563990,
+    descTime: 0,
+    restrict: false,
+    announce: false,
+    noFrequentlyForwarded: false,
+    ephemeralDuration: 0,
+    membershipApprovalMode: false,
+    size: 19,
+    support: false,
+    suspended: false,
+    terminated: false,
+    uniqueShortNameMap: {},
+    isParentGroup: false,
+    isParentGroupClosed: false,
+    defaultSubgroup: false,
+    lastActivityTimestamp: 0,
+    lastSeenActivityTimestamp: 0,
+    incognito: false,
+    participants: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object]
+    ],
+    pendingParticipants: [],
+    pastParticipants: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    membershipApprovalRequests: []
+  },
+  presence: {
+    id: {
+      server: 'g.us',
+      user: '120363048096413808',
+      _serialized: '120363048096413808@g.us'
+    },
+    chatstates: []
+  },
+  isOnline: null,
+  lastSeen: null
+}
+{
+  id: {
+    server: 'g.us',
+    user: '5511976990019-1597104479',
+    _serialized: '5511976990019-1597104479@g.us'
+  },
+  lastReceivedKey: {
+    fromMe: true,
+    remote: {
+      server: 'g.us',
+      user: '5511976990019-1597104479',
+      _serialized: '5511976990019-1597104479@g.us'
+    },
+    id: '4AQAVUUFBLRMJWKS3BXL',
+    _serialized: 'true_5511976990019-1597104479@g.us_4AQAVUUFBLRMJWKS3BXL'
+  },
+  t: 1679864956,
+  unreadCount: 0,
+  isReadOnly: false,
+  isAnnounceGrpRestrict: false,
+  muteExpiration: 0,
+  isAutoMuted: false,
+  name: 'Comunidade Canal Dev Core',
+  notSpam: true,
+  ephemeralDuration: 0,
+  unreadMentionsOfMe: [],
+  unreadMentionCount: 0,
+  hasUnreadMention: false,
+  archiveAtMentionViewedInDrawer: false,
+  hasChatBeenOpened: false,
+  tcToken: null,
+  tcTokenTimestamp: null,
+  endOfHistoryTransferType: 0,
+  pendingInitialLoading: false,
+  chatlistPreview: {
+    type: 'reaction',
+    msgKey: 'false_5511976990019-1597104479@g.us_3EB0A6EAA3B779481280_555184193116@c.us',
+    parentMsgKey: 'true_5511976990019-1597104479@g.us_49E7BE37567B7C4DD60D541E91BE3DBD_557798011881@c.us',
+    reactionText: '😂',
+    sender: '555184193116@c.us',
+    timestamp: 1672063572000
+  },
+  msgs: null,
+  kind: 'group',
+  isGroup: true,
+  contact: {
+    id: {
+      server: 'g.us',
+      user: '5511976990019-1597104479',
+      _serialized: '5511976990019-1597104479@g.us'
+    },
+    name: 'Comunidade Canal Dev Core',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    formattedName: 'Comunidade Canal Dev Core',
+    displayName: 'Comunidade Canal Dev Core',
+    formattedShortName: 'Comunidade Canal Dev Core',
+    formattedShortNameWithNonBreakingSpaces: 'Comunidade Canal Dev Core',
+    isMe: false,
+    mentionName: 'Comunidade Canal Dev Core',
+    isMyContact: false,
+    isPSA: false,
+    isUser: false,
+    isWAContact: false,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/117728996_930446794143148_3384909049135193116_n.jpg?ccb=11-4&oh=01_AdR-MaTqSUJIhDwXy0ek7ghpc_S-JFrmmMXKYYgJxDo7gg&oe=642DCAE5',
+      id: [Object],
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/117728996_930446794143148_3384909049135193116_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdR4RU0ODWA70xDetEa1F93X_kN2dh0yIk3hSql3jwsydA&oe=642DCAE5',      
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/117728996_930446794143148_3384909049135193116_n.jpg?ccb=11-4&oh=01_AdR-MaTqSUJIhDwXy0ek7ghpc_S-JFrmmMXKYYgJxDo7gg&oe=642DCAE5',
+      tag: '1597104912'
+    },
+    msgs: null
+  },
+  groupMetadata: {
+    id: {
+      server: 'g.us',
+      user: '5511976990019-1597104479',
+      _serialized: '5511976990019-1597104479@g.us'
+    },
+    creation: 1597104479,
+    owner: {
+      server: 'c.us',
+      user: '5511976990019',
+      _serialized: '5511976990019@c.us'
+    },
+    subject: 'Comunidade Canal Dev Core',
+    subjectTime: 1651624653,
+    desc: 'Informação importante: ⚠️\n' +
+      '\n' +
+      'Não temos muitas regras por aqui, mas peço que não compartilhe figurinhas, fotos, vídeos ou algo do tipo no grupo que não seja relacionado ao assunto help em alguma dúvida de programação ou em vagas de emprego também na área de programação.\n' +
+      '\n' +
+      'Obrigado pela compreensão!',
+    descId: '1675981162-73',
+    descTime: 1675984650,
+    descOwner: {
+      server: 'c.us',
+      user: '5511985252200',
+      _serialized: '5511985252200@c.us'
+    },
+    restrict: true,
+    announce: false,
+    noFrequentlyForwarded: false,
+    ephemeralDuration: 0,
+    membershipApprovalMode: false,
+    size: 276,
+    support: false,
+    suspended: false,
+    terminated: false,
+    uniqueShortNameMap: {},
+    isParentGroup: false,
+    isParentGroupClosed: false,
+    defaultSubgroup: false,
+    lastActivityTimestamp: 0,
+    lastSeenActivityTimestamp: 0,
+    incognito: false,
+    participants: [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 176 more items
+    ],
+    pendingParticipants: [],
+    pastParticipants: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    membershipApprovalRequests: []
+  },
+  presence: {
+    id: {
+      server: 'g.us',
+      user: '5511976990019-1597104479',
+      _serialized: '5511976990019-1597104479@g.us'
+    },
+    chatstates: []
+  },
+  isOnline: null,
+  lastSeen: 1679864961000
+}
+{
+  id: {
+    server: 'g.us',
+    user: '120363048203361795',
+    _serialized: '120363048203361795@g.us'
+  },
+  lastReceivedKey: {
+    fromMe: false,
+    remote: {
+      server: 'g.us',
+      user: '120363048203361795',
+      _serialized: '120363048203361795@g.us'
+    },
+    id: '36CA1DBDD36AF782A46D7EFCB769B5A1',
+    participant: {
+      server: 'c.us',
+      user: '556199955372',
+      _serialized: '556199955372@c.us'
+    },
+    _serialized: 'false_120363048203361795@g.us_36CA1DBDD36AF782A46D7EFCB769B5A1_556199955372@c.us'   
+  },
+  t: 1679866926,
+  unreadCount: 0,
+  isReadOnly: false,
+  isAnnounceGrpRestrict: false,
+  muteExpiration: 0,
+  isAutoMuted: false,
+  name: 'ALUNOS ADS',
+  notSpam: true,
+  ephemeralDuration: 0,
+  unreadMentionsOfMe: [],
+  unreadMentionCount: 0,
+  hasUnreadMention: false,
+  archiveAtMentionViewedInDrawer: false,
+  hasChatBeenOpened: false,
+  tcToken: null,
+  tcTokenTimestamp: null,
+  endOfHistoryTransferType: 1,
+  pendingInitialLoading: false,
+  chatlistPreview: {
+    type: 'reaction',
+    msgKey: 'false_120363048203361795@g.us_EB4A0EE7B88C718728323AC4404BF639_5511975987861@c.us',      
+    parentMsgKey: 'true_120363048203361795@g.us_7FA16EA18A625E7466F8CC80BDB536A3_557798011881@c.us',  
+    reactionText: '😂',
+    sender: '5511975987861@c.us',
+    timestamp: 1677541097213
+  },
+  msgs: null,
+  kind: 'group',
+  isGroup: true,
+  contact: {
+    id: {
+      server: 'g.us',
+      user: '120363048203361795',
+      _serialized: '120363048203361795@g.us'
+    },
+    name: 'ALUNOS ADS',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    formattedName: 'ALUNOS ADS',
+    displayName: 'ALUNOS ADS',
+    formattedShortName: 'ALUNOS ADS',
+    formattedShortNameWithNonBreakingSpaces: 'ALUNOS ADS',
+    isMe: false,
+    mentionName: 'ALUNOS ADS',
+    isMyContact: false,
+    isPSA: false,
+    isUser: false,
+    isWAContact: false,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/312283891_962393325168442_3313728017129769309_n.jpg?ccb=11-4&oh=01_AdS7zamFTpmR8I-OxXZyCcH7HmX8onNNZR4Zfl7oiAdk7g&oe=642DDBB5',
+      id: [Object],
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/312283891_962393325168442_3313728017129769309_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdTyln6RuCxy8QILkZQoaEcqEAzQoARgf0wBy3e1i3YXTQ&oe=642DDBB5',      
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/312283891_962393325168442_3313728017129769309_n.jpg?ccb=11-4&oh=01_AdS7zamFTpmR8I-OxXZyCcH7HmX8onNNZR4Zfl7oiAdk7g&oe=642DDBB5',
+      tag: '1675198907'
+    },
+    msgs: null
+  },
+  groupMetadata: {
+    id: {
+      server: 'g.us',
+      user: '120363048203361795',
+      _serialized: '120363048203361795@g.us'
+    },
+    creation: 1675198894,
+    owner: {
+      server: 'c.us',
+      user: '5522997395590',
+      _serialized: '5522997395590@c.us'
+    },
+    subject: 'ALUNOS ADS',
+    subjectTime: 1675260469,
+    desc: '*GRUPO DESCONTRAÍDO*\n' +
+      '*A INTENÇÃO DO GRUPO É QUE TODOS APRENDAM E JULGAMOS QUE A MANEIRA MAIS EFICIENTE É QUE TODOS POSSAM CONVERSAR E DEBATER ASSUNTOS EM GERAL.*\n' +
+      '\n' +
+      '*AS ÚNICAS LIMITAÇÕES SÃO REFERENTES A CONTEÚDOS PROIBÍDO COMO:*\n' +
+      '*ASSUNTOS VIOLENTOS*\n' +
+      '*ASSUNTOS RELACIONADOS A FRAUDES*\n' +
+      '*ASSUNTOS RELACIONADOS A DROGAS*\n' +
+      '*ASSUNTOS RELACIONADOS A PORNOGRAFIA*\n' +
+      'Link do grupo:https://chat.whatsapp.com/JQifmRwCtiSLpWUTzPWha9',
+    descId: '69088D9A5A3072516E41FBD828BC0CD0',
+    descTime: 1676594634,
+    descOwner: {
+      server: 'c.us',
+      user: '5522997395590',
+      _serialized: '5522997395590@c.us'
+    },
+    restrict: true,
+    announce: false,
+    noFrequentlyForwarded: false,
+    ephemeralDuration: 0,
+    membershipApprovalMode: false,
+    size: 0,
+    support: false,
+    suspended: false,
+    terminated: false,
+    uniqueShortNameMap: {},
+    isParentGroup: false,
+    isParentGroupClosed: false,
+    defaultSubgroup: false,
+    lastActivityTimestamp: 0,
+    lastSeenActivityTimestamp: 0,
+    incognito: false,
+    participants: [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 513 more items
+    ],
+    pendingParticipants: [],
+    pastParticipants: [
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object], [Object], [Object],
+      [Object], [Object], [Object], [Object],
+      ... 468 more items
+    ],
+    membershipApprovalRequests: []
+  },
+  presence: {
+    id: {
+      server: 'g.us',
+      user: '120363048203361795',
+      _serialized: '120363048203361795@g.us'
+    },
+    chatstates: []
+  },
+  isOnline: null,
+  lastSeen: null
+}
+{
+  id: {
+    server: 'g.us',
+    user: '557798011881-1626143868',
+    _serialized: '557798011881-1626143868@g.us'
+  },
+  lastReceivedKey: {
+    fromMe: true,
+    remote: {
+      server: 'g.us',
+      user: '557798011881-1626143868',
+      _serialized: '557798011881-1626143868@g.us'
+    },
+    id: '3EB03204461C4704EF57',
+    participant: {
+      server: 'c.us',
+      user: '557798011881',
+      _serialized: '557798011881@c.us'
+    },
+    _serialized: 'true_557798011881-1626143868@g.us_3EB03204461C4704EF57_557798011881@c.us'
+  },
+  t: 1679866826,
+  unreadCount: 0,
+  archive: false,
+  isReadOnly: false,
+  isAnnounceGrpRestrict: false,
+  muteExpiration: 0,
+  isAutoMuted: false,
+  name: 'Não abra se vc não é o ph',
+  notSpam: true,
+  pin: 1628485302031,
+  ephemeralDuration: 0,
+  unreadMentionsOfMe: [],
+  unreadMentionCount: 0,
+  hasUnreadMention: false,
+  archiveAtMentionViewedInDrawer: false,
+  hasChatBeenOpened: false,
+  tcToken: null,
+  tcTokenTimestamp: null,
+  endOfHistoryTransferType: 0,
+  pendingInitialLoading: false,
+  msgs: null,
+  kind: 'group',
+  isGroup: true,
+  contact: {
+    id: {
+      server: 'g.us',
+      user: '557798011881-1626143868',
+      _serialized: '557798011881-1626143868@g.us'
+    },
+    name: 'Não abra se vc não é o ph',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    formattedName: 'Não abra se vc não é o ph',
+    displayName: 'Não abra se vc não é o ph',
+    formattedShortName: 'Não abra se vc não é o ph',
+    formattedShortNameWithNonBreakingSpaces: 'Não abra se vc não é o ph',
+    isMe: false,
+    mentionName: 'Não abra se vc não é o ph',
+    isMyContact: false,
+    isPSA: false,
+    isUser: false,
+    isWAContact: false,
+    profilePicThumbObj: { id: [Object], tag: '' },
+    msgs: null
+  },
+  groupMetadata: {
+    id: {
+      server: 'g.us',
+      user: '557798011881-1626143868',
+      _serialized: '557798011881-1626143868@g.us'
+    },
+    creation: 1626143868,
+    owner: {
+      server: 'c.us',
+      user: '557798011881',
+      _serialized: '557798011881@c.us'
+    },
+    subject: 'Não abra se vc não é o ph',
+    subjectTime: 1647658605,
+    descTime: 0,
+    restrict: false,
+    announce: false,
+    noFrequentlyForwarded: false,
+    ephemeralDuration: 0,
+    membershipApprovalMode: false,
+    size: 1,
+    support: false,
+    suspended: false,
+    terminated: false,
+    uniqueShortNameMap: {},
+    isParentGroup: false,
+    isParentGroupClosed: false,
+    defaultSubgroup: false,
+    lastActivityTimestamp: 0,
+    lastSeenActivityTimestamp: 0,
+    incognito: false,
+    participants: [ [Object] ],
+    pendingParticipants: [],
+    pastParticipants: [],
+    membershipApprovalRequests: []
+  },
+  presence: {
+    id: {
+      server: 'g.us',
+      user: '557798011881-1626143868',
+      _serialized: '557798011881-1626143868@g.us'
+    },
+    chatstates: []
+  },
+  isOnline: null,
+  lastSeen: null
+}
+{
+  id: {
+    server: 'c.us',
+    user: '557788472000',
+    _serialized: '557788472000@c.us'
+  },
+  lastReceivedKey: {
+    fromMe: true,
+    remote: {
+      server: 'c.us',
+      user: '557788472000',
+      _serialized: '557788472000@c.us'
+    },
+    id: 'CFC0CCDFEF565F34897952DD5561C735',
+    _serialized: 'true_557788472000@c.us_CFC0CCDFEF565F34897952DD5561C735'
+  },
+  t: 1677705070,
+  unreadCount: 0,
+  archive: false,
+  isReadOnly: false,
+  muteExpiration: 0,
+  isAutoMuted: false,
+  notSpam: true,
+  pin: 1654297574476,
+  ephemeralDuration: 0,
+  disappearingModeInitiator: 'chat',
+  unreadMentionCount: 0,
+  hasUnreadMention: false,
+  archiveAtMentionViewedInDrawer: false,
+  hasChatBeenOpened: false,
+  tcToken: {},
+  tcTokenTimestamp: 1677704559,
+  tcTokenSenderTimestamp: 1677704654,
+  endOfHistoryTransferType: 0,
+  pendingInitialLoading: false,
+  chatlistPreview: {
+    type: 'reaction',
+    msgKey: 'true_557788472000@c.us_3EB09CEFE17311FB5ADF',
+    parentMsgKey: 'false_557788472000@c.us_3EB0C8D86C986D07BFDC',
+    reactionText: '👍',
+    sender: '557798011881@c.us',
+    timestamp: 1675433615000
+  },
+  msgs: null,
+  kind: 'chat',
+  isGroup: false,
+  contact: {
+    id: {
+      server: 'c.us',
+      user: '557788472000',
+      _serialized: '557788472000@c.us'
+    },
+    type: 'in',
+    verifiedName: 'Estácio',
+    isBusiness: true,
+    isEnterprise: false,
+    isSmb: true,
+    verifiedLevel: 0,
+    privacyMode: null,
+    isContactSyncCompleted: 1,
+    formattedName: '+55 77 8847-2000',
+    displayName: '+55 77 8847-2000',
+    formattedShortName: '+55 77 8847-2000',
+    formattedShortNameWithNonBreakingSpaces: '+55 77 8847-2000',
+    isMe: false,
+    mentionName: null,
+    notifyName: 'Estácio',
+    isMyContact: false,
+    isPSA: false,
+    isUser: true,
+    isWAContact: true,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/222640484_693826262029221_7756222045838012451_n.jpg?ccb=11-4&oh=01_AdQVX_WoLQphOsLlXapTuJgbtENhTgFGUBoddREqL1zs-Q&oe=642DD5F5',
+      id: [Object],
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/222640484_693826262029221_7756222045838012451_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdR0nEH9S7O-VFhuSNcWX2E4-cZcRsx9NVhItKBtbKmTgA&oe=642DD5F5',      
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/222640484_693826262029221_7756222045838012451_n.jpg?ccb=11-4&oh=01_AdQVX_WoLQphOsLlXapTuJgbtENhTgFGUBoddREqL1zs-Q&oe=642DD5F5',
+      tag: '1644340992'
+    },
+    msgs: null
+  },
+  groupMetadata: null,
+  presence: {
+    id: {
+      server: 'c.us',
+      user: '557788472000',
+      _serialized: '557788472000@c.us'
+    },
+    chatstates: []
+  },
+  isOnline: null,
+  lastSeen: null
+}
+{
+  id: {
+    server: 'g.us',
+    user: '120363029979049324',
+    _serialized: '120363029979049324@g.us'
+  },
+  lastReceivedKey: {
+    fromMe: true,
+    remote: {
+      server: 'g.us',
+      user: '120363029979049324',
+      _serialized: '120363029979049324@g.us'
+    },
+    id: 'AFD44CF451B38EE647332A9D47995FA1',
+    participant: {
+      server: 'c.us',
+      user: '557798011881',
+      _serialized: '557798011881@c.us'
+    },
+    _serialized: 'true_120363029979049324@g.us_AFD44CF451B38EE647332A9D47995FA1_557798011881@c.us'    
+  },
+  t: 1679844375,
+  unreadCount: 0,
+  archive: false,
+  isReadOnly: false,
+  isAnnounceGrpRestrict: false,
+  muteExpiration: 0,
+  isAutoMuted: false,
+  name: 'Central do Amor♥️❤‍🔥',
+  notSpam: true,
+  pin: 1672237453054,
+  ephemeralDuration: 0,
+  unreadMentionsOfMe: [],
+  unreadMentionCount: 0,
+  hasUnreadMention: false,
+  archiveAtMentionViewedInDrawer: false,
+  hasChatBeenOpened: false,
+  tcToken: null,
+  tcTokenTimestamp: null,
+  endOfHistoryTransferType: 0,
+  pendingInitialLoading: false,
+  chatlistPreview: {
+    type: 'reaction',
+    msgKey: 'true_120363029979049324@g.us_1B7F9E01E560476D2787BBD87335C3A6_557798011881@c.us',        
+    parentMsgKey: 'false_120363029979049324@g.us_EC1EE79BEC6E90EB30FA3821BBEBD4F2_557799781703@c.us', 
+    reactionText: '😢',
+    sender: '557798011881@c.us',
+    timestamp: 1679686477052
+  },
+  msgs: null,
+  kind: 'group',
+  isGroup: true,
+  contact: {
+    id: {
+      server: 'g.us',
+      user: '120363029979049324',
+      _serialized: '120363029979049324@g.us'
+    },
+    name: 'Central do Amor♥️❤‍🔥',
+    type: 'in',
+    isBusiness: false,
+    isEnterprise: false,
+    isSmb: false,
+    formattedName: 'Central do Amor♥️❤‍🔥',
+    displayName: 'Central do Amor♥️❤‍🔥',
+    formattedShortName: 'Central do Amor♥️❤‍🔥',
+    formattedShortNameWithNonBreakingSpaces: 'Central do Amor♥️❤‍🔥',
+    isMe: false,
+    mentionName: 'Central do Amor♥️❤‍🔥',
+    isMyContact: false,
+    isPSA: false,
+    isUser: false,
+    isWAContact: false,
+    profilePicThumbObj: {
+      eurl: 'https://pps.whatsapp.net/v/t61.24694-24/311641881_544247977093017_3274709537359573783_n.jpg?ccb=11-4&oh=01_AdQWWnh5sv55gRWxyWhxJUWr_CscLBG6CRAHkWKkmdUsnw&oe=642DB828',
+      id: [Object],
+      img: 'https://pps.whatsapp.net/v/t61.24694-24/311641881_544247977093017_3274709537359573783_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdSDMe8SYHWqSGVW9dEY5cPIXZLYo_zEMs856NE1zE87nw&oe=642DB828',      
+      imgFull: 'https://pps.whatsapp.net/v/t61.24694-24/311641881_544247977093017_3274709537359573783_n.jpg?ccb=11-4&oh=01_AdQWWnh5sv55gRWxyWhxJUWr_CscLBG6CRAHkWKkmdUsnw&oe=642DB828',
+      tag: '1669427024'
+    },
+    msgs: null
+  },
+  groupMetadata: {
+    id: {
+      server: 'g.us',
+      user: '120363029979049324',
+      _serialized: '120363029979049324@g.us'
+    },
+    creation: 1669426935,
+    owner: {
+      server: 'c.us',
+      user: '557799781703',
+      _serialized: '557799781703@c.us'
+    },
+    subject: 'Central do Amor♥️❤‍🔥',
+    subjectTime: 1673278091,
+    desc: 'LISTA DE REPOSIÇÃO - MERCADO https://docs.google.com/spreadsheets/d/1wvKHU4t_AjG20jXnOIV_8qUZAQODWsOrWaCo5IzwgJc/edit?usp=sharing\n' +
+      '\n' +
+      'Avenida José Bonifácio, 587, apto 103, centro\n' +
+      'CEP 47800090',
+    descId: '154CCEDADC51FB41931729EF1259E7EF',
+    descTime: 1678466328,
+    descOwner: {
+      server: 'c.us',
+      user: '557799781703',
+      _serialized: '557799781703@c.us'
+    },
+    restrict: false,
+    announce: false,
+    noFrequentlyForwarded: false,
+    ephemeralDuration: 0,
+    membershipApprovalMode: false,
+    size: 2,
+    support: false,
+    suspended: false,
+    terminated: false,
+    uniqueShortNameMap: {},
+    isParentGroup: false,
+    isParentGroupClosed: false,
+    defaultSubgroup: false,
+    lastActivityTimestamp: 0,
+    lastSeenActivityTimestamp: 0,
+    incognito: false,
+    participants: [ [Object], [Object] ],
+    pendingParticipants: [],
+    pastParticipants: [],
+    membershipApprovalRequests: []
+  },
+  presence: {
+    id: {
+      server: 'g.us',
+      user: '120363029979049324',
+      _serialized: '120363029979049324@g.us'
+    },
+    chatstates: []
+  },
+  isOnline: null,
+  lastSeen: null
+}
